@@ -24,3 +24,5 @@ Traditional mineral exploration is expensive and inefficient: the industry avera
 ---
 
 *MINML is headquartered in the United Kingdom.*
+
+© 2026 MINML Ltd. All rights reserved.
